@@ -9,3 +9,7 @@ https://user-images.githubusercontent.com/20305074/149254954-593a62f4-3e41-4069-
 Here is the results of running the script: a skeleton that can be used for retargetting within Maya.
 
 https://user-images.githubusercontent.com/20305074/149254998-59bd5e3d-375a-4626-b282-c8c235669bf1.mov
+
+There are two versions of this script:
+1. The Parent Constraint version, which constrains the joints to their respective locators
+2. The Parent Offset Matrix version, which uses the offset matrices from the locators and drives the locations of their respective joints and children.
